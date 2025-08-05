@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A **list** is a mutable, ordered collection of items. Lists can store any data type, including other lists, and are accessed by 0-based indices (from the left) or negative indices (from the right). Lists are implemented as dynamic arrays and are widely used for storing groups of related data.
+A **list** is a mutable, ordered collection of items in sequence. Lists can store any data type, including other lists, and are accessed by 0-based indices (from the left) or negative indices (from the right). Lists are implemented as dynamic arrays and are widely used for storing groups of related data.
 
 ---
 
